@@ -1,0 +1,1 @@
+# Cloud_IOT_Industria_4.0_Phyton
